@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.66954c68.chunk.css",
+    "main.js": "/portfolio/static/js/main.6e13cad9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6e13cad9.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/portfolio/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.a1e75544.chunk.js": "/portfolio/static/js/2.a1e75544.chunk.js",
+    "static/js/2.a1e75544.chunk.js.map": "/portfolio/static/js/2.a1e75544.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.16e6e60a4b90ba4e6aaf5c785fcd9872.js": "/portfolio/precache-manifest.16e6e60a4b90ba4e6aaf5c785fcd9872.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/portfolio/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.66954c68.chunk.css.map": "/portfolio/static/css/main.66954c68.chunk.css.map",
+    "static/js/2.a1e75544.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a1e75544.chunk.js.LICENSE.txt",
+    "static/media/ShubhamBhagat_CV.pdf": "/portfolio/static/media/ShubhamBhagat_CV.d0060dbb.pdf",
+    "static/media/about.jpg": "/portfolio/static/media/about.f01eb3ed.jpg",
+    "static/media/bike.png": "/portfolio/static/media/bike.40b009d4.png",
+    "static/media/chart.svg": "/portfolio/static/media/chart.5a09a09d.svg",
+    "static/media/dataImg.png": "/portfolio/static/media/dataImg.ff4add22.png",
+    "static/media/ecomImg.png": "/portfolio/static/media/ecomImg.17df8328.png",
+    "static/media/email.svg": "/portfolio/static/media/email.fe555a68.svg",
+    "static/media/git.svg": "/portfolio/static/media/git.4c680c66.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.c588630e.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.4356bdea.svg",
+    "static/media/linkf.svg": "/portfolio/static/media/linkf.e7ccc098.svg",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.37ed397d.jpg",
+    "static/media/project.png": "/portfolio/static/media/project.24c4e7b4.png",
+    "static/media/sing.jpg": "/portfolio/static/media/sing.2417e554.jpg",
+    "static/media/tourImg.png": "/portfolio/static/media/tourImg.e8dd52b7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.a1e75544.chunk.js",
+    "static/css/main.66954c68.chunk.css",
+    "static/js/main.6e13cad9.chunk.js"
+  ]
+}
